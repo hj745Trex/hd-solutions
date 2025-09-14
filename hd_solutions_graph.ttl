@@ -1,0 +1,55 @@
+@prefix hd: <http://hd-solutions.co.kr/ontology/> .
+@prefix schema1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+hd:HDSolutions a schema1:Organization ;
+    schema1:alternateName "Hankook Delcam" ;
+    schema1:description "Korean CAM software company specializing in CNC machining and mold & die automation." ;
+    schema1:employee hd:YangSeungIl ;
+    schema1:founder hd:YangSeungIl ;
+    schema1:foundingDate "1989"^^xsd:gYear ;
+    schema1:hasProduct hd:HDAS,
+        hd:NCG_CAM ;
+    schema1:knowsAbout hd:CNC,
+        hd:MoldDie,
+        hd:SmartFactory ;
+    schema1:name "HD Solutions" ;
+    schema1:url <https://hd-solutions.co.kr/> .
+
+hd:CNC a schema1:Industry ;
+    schema1:name "CNC Machining" .
+
+hd:CoreCavityDesign a schema1:SoftwareApplication ;
+    schema1:description "Automates core/cavity modeling using expert knowledge." ;
+    schema1:name "CoreCavityDesign" .
+
+hd:DataManagement a schema1:SoftwareApplication ;
+    schema1:description "Manages CAM toolpaths, product data, and intellectual property." ;
+    schema1:name "DataManagement" .
+
+hd:ElectrodeAutomation a schema1:SoftwareApplication ;
+    schema1:description "Optimizes graphite and copper electrode machining." ;
+    schema1:name "ElectrodeAutomation" .
+
+hd:HDAS a schema1:SoftwareApplication ;
+    schema1:description "Automated CAM programming system with modules for data management, electrode machining, and core/cavity design." ;
+    schema1:hasPart hd:CoreCavityDesign,
+        hd:DataManagement,
+        hd:ElectrodeAutomation ;
+    schema1:name "Hankook Delcam Automation Solution" .
+
+hd:MoldDie a schema1:Industry ;
+    schema1:name "Mold and Die Manufacturing" .
+
+hd:NCG_CAM a schema1:SoftwareApplication ;
+    schema1:applicationCategory "CAM Software" ;
+    schema1:description "High-speed CAM software developed in the UK, compatible with all CAD systems." ;
+    schema1:name "NCG CAM" ;
+    schema1:operatingSystem "Windows" .
+
+hd:SmartFactory a schema1:Industry ;
+    schema1:name "Smart Manufacturing" .
+
+hd:YangSeungIl a schema1:Person ;
+    schema1:name "Yang Seung-il" .
+
