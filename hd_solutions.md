@@ -69,7 +69,7 @@ The company is led by CEO **Yang Seung-il**, who has overseen its strategic tran
 - [Official Website](https://hd-solutions.co.kr/)
 
 ---
-
+tags: [CAD/CAM, MES, Smart Manufacturing, Smart Factory, Precision Manufacturing, Korea]
 ## References
 
 [^1]: [회사소개 - HD Solutions](https://hd-solutions.co.kr/company) (HD Solutions, Korean)
@@ -79,4 +79,5 @@ The company is led by CEO **Yang Seung-il**, who has overseen its strategic tran
 [^5]: [Hankook Delcam Automation Solution](https://www.digitalengineering247.com/article/hankook-delcam-automation-solution-aimed-at-mold-and-die-industries/) (Digital Engineering 24/7)
 [^6]: [Smart Manufacturing - IBM](https://www.ibm.com/think/topics/smart-manufacturing) (IBM, 14 June 2023)
 [^7]: [Smart Manufacturing Strategy - Gartner](https://www.gartner.com/smarterwithgartner/6-key-actions-for-a-successful-smart-manufacturing-strategy) (Gartner, 16 July 2021)
+
 [^8]: [Enable Intelligent Factories - Microsoft](https://learn.microsoft.com/en-us/industry/manufacturing/enable-intelligent-factories) (Microsoft, 25 August 2025)
