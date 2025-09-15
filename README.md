@@ -36,3 +36,5 @@ You can load the `.ttl` file into any RDF-compatible tool:
 from rdflib import Graph
 g = Graph()
 g.parse("hd_solutions_graph.ttl", format="turtle")
+
+tags: [CAD/CAM, MES, Smart Manufacturing, Smart Factory, Precision Manufacturing, Korea]
