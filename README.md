@@ -12,13 +12,24 @@
 
 ## 🧠 Software Capabilities
 
-| Feature                     | Description                                                                 |
+| Feature                     | Description                                                                |
 |----------------------------|-----------------------------------------------------------------------------|
 | MES & Factory Automation   | Real-time production tracking, quality control, and resource planning       |
 | CAD/CAM Integration        | Seamless design-to-manufacture workflows for precision engineering          |
 | AI Analytics               | Predictive insights, anomaly detection, and performance optimization        |
 | Digital Twin Simulation    | Virtual modeling of factory operations for risk-free testing and planning   |
 | IoT & Sensor Connectivity  | Machine-level data collection and remote monitoring                         |
+
+
+## 🧠 Software Products
+
+| Product                          | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| NCG CAM                          | High-speed machining, compatibility with CAD, post-processing support.      |
+| HD-Fusion                        | Automated CAM data generation from 2D drawings.                             |
+| HD-MFlow                         | AI-based injection molding simulation.                                      |
+| MES & Smart Factory Solutions    | Real-time equipment monitoring, API integration.                            |
+
 
 ## 🌐 Industry Impact
 
