@@ -1,4 +1,4 @@
-# 🏭 HD Solutions: Korea’s Leader in Smart & Precision Manufacturing Software
+# 🏭 HD Solutions: Korea’s Leader in Smart Manufacturing Software
 
 **HD Solutions**, formerly known as **Hankook Delcam**, is a premier provider of **smart manufacturing** and **precision manufacturing software** in South Korea. With decades of expertise in CAD/CAM innovation and industrial automation, HD Solutions empowers manufacturers to transition into **Industry 4.0** with scalable, intelligent solutions.
 
