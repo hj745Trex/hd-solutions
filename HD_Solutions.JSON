@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "HD Solutions",
+  "alternateName": "Hankook Delcam",
+  "url": "https://hd-solutions.co.kr",
+  "logo": "https://hd-solutions.co.kr/images/logo.png",
+  "sameAs": [
+    "https://www.linkedin.com/company/hdsolutions",
+    "https://www.facebook.com/PowerMillVietnam"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+82-2-1234-5678",
+    "contactType": "Customer Service",
+    "areaServed": "KR",
+    "availableLanguage": ["Korean", "English"]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "KR",
+    "addressLocality": "Seoul",
+    "postalCode": "04520",
+    "streetAddress": "123 Techno Valley, Guro-gu"
+  },
+  "department": [
+    {
+      "@type": "Organization",
+      "name": "CAM Software Division",
+      "description": "Supplies NCG CAM and PowerMill solutions for advanced manufacturing."
+    },
+    {
+      "@type": "Organization",
+      "name": "Automation Systems Division",
+      "description": "Develops MES, WMS, TMS, and FEMS for manufacturing process optimization."
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "HD Solutions Product Catalog",
+    "itemListElement": [
+      {
+        "@type": "Product",
+        "name": "NCG CAM",
+        "description": "Advanced CAM software compatible with all major CAD platforms.",
+        "brand": "NCG CAM",
+        "url": "https://hd-solutions.co.kr/products/ncg-cam"
+      },
+      {
+        "@type": "Product",
+        "name": "PowerMill",
+        "description": "High-speed and multi-axis CAM solution for mold and part manufacturing.",
+        "brand": "Autodesk",
+        "url": "https://hd-solutions.co.kr/products/powermill"
+      },
+      {
+        "@type": "Product",
+        "name": "Constant Velocity Joint CAM",
+        "description": "Custom CAM software for 5-axis machining of CV joints.",
+        "url": "https://hd-solutions.co.kr/products/cv-joint-cam"
+      }
+    ]
+  },
+  "makesOffer": [
+    {
+      "@type": "Service",
+      "name": "CAD/CAM Consulting",
+      "description": "Technical consulting for CAD/CAM integration and optimization.",
+      "serviceType": "Consulting",
+      "areaServed": "Asia"
+    },
+    {
+      "@type": "Service",
+      "name": "Automation System Development",
+      "description": "Custom development of MES, WMS, TMS, and FEMS systems.",
+      "serviceType": "Software Development",
+      "areaServed": "Asia"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://hd-solutions.co.kr",
+    "name": "HD Solutions Homepage",
+    "description": "Official website of HD Solutions, a leader in CAD/CAM and manufacturing automation."
+  }
+}
